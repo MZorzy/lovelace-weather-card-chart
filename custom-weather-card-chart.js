@@ -35,6 +35,18 @@ const locale = {
       'S', 'S-SO', 'SO', 'O-SO', 'O', 'O-NO', 'NO', 'N-NO', 'N'
     ]
   },
+   it: {
+    tempHi: "Temperatura",
+    tempLo: "Temperatura notturan",
+    precip: "Pioggia",
+    uPress: "hPa",
+    uSpeed: "m/s",
+    uPrecip: "mm",
+    cardinalDirections: [
+      'N', 'N-NE', 'NE', 'E-NE', 'E', 'E-SE', 'SE', 'S-SE',
+      'S', 'S-SW', 'SW', 'W-SW', 'W', 'W-NW', 'NW', 'N-NW', 'N'
+    ]
+  },
   nl: {
     tempHi: "Maximum temperatuur",
     tempLo: "Minimum temperatuur",
